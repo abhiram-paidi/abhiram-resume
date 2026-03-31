@@ -2,7 +2,7 @@
 
 **Technologies Used:** HTML, CSS 
 
-**Visit the website:** <a href="https://abhiram-paidi.github.io/WebResume/" target="_blank">Live Portfolio</a> 🌐  
+**Visit the website:** <a href="https://abhiram-paidi.github.io/WebResume/" target="_blank">WebResume</a> 🌐  
 
 The Web Resume is a modern and responsive web application designed to showcase professional skills, projects, and experience in an interactive format. It serves as a digital resume, providing a clean and structured way to present information while enhancing user engagement. 💻✨  
 
